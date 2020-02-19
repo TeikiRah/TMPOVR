@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 115
+  controlID: 122
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -436,11 +436,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.09435938, y: 0.0014932237, z: -0.00014155477, w: 0.99553806}
     speed: 2
-    m_Value: {x: 0.08538423, y: -0.016439067, z: 0.0014089507, w: 0.99621147}
+    m_Value: {x: -0.09435939, y: -0.0014932237, z: 0.00014155479, w: -0.99553806}
   m_Size:
     m_Target: 48.111557
     speed: 2
-    m_Value: 47.811558
+    m_Value: 48.111557
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -497,21 +497,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aacaffffdccaffffeacaffffa6ccffffd6ccffff24cfffffa2d1ffffd2d1ffff20d4ffff96d6ffffc6d6ffff14d9ffffbedaffffeedaffff3cddffffb8dfffffe8dfffff36e2ffffdae3ffff0ae4ffff58e6ffff40e8ffff6ee8ffff7ce8ffffe2e9ffff12eaffff60ecffffa2eeffffd2eeffff20f1ffffdef2ffff0ef3ffff5cf5ffff86f7ffffb6f7ffff08faffff4cfbffff3e4b0000587400006c810000bc8a00002a940000
+      m_ExpandedIDs: 4cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Triangle
-        m_OriginalName: Triangle
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 37876
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -597,7 +597,7 @@ MonoBehaviour:
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 971.25, y: 546.25}
+  m_LastWindowPixelSize: {x: 777, y: 437}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -667,19 +667,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Objects
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Objects
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Teiki RAIHAUTI\Desktop\Projets Unity\Test
+  m_LastProjectPath: C:\Users\Teiki RAIHAUTI\Desktop\Projets Unity\TMPOVR\TMPOVR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: aa370000
-    m_LastClickedID: 14250
+    m_SelectedIDs: 06320000
+    m_LastClickedID: 12806
     m_ExpandedIDs: 000000000632000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -735,7 +735,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ce5100000e3a0000368100004a3a000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
