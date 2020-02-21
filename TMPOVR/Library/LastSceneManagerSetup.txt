@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Example.unity
+- path: Assets/TextMesh Pro Scroll/Scenes/Example.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

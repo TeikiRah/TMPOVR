@@ -3,7 +3,6 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - Defilement
     - ONSPSettings
-    - TextManager
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
@@ -35,7 +34,7 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.EventTrigger
   sceneClasses:
-    Assets/Scenes/Example.unity:
+    Assets/TextMesh Pro Scroll/Scenes/Example.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -57,8 +56,6 @@ ScriptsOnlyBuild:
     - Class: 49
       Script: {instanceID: 0}
     - Class: 64
-      Script: {instanceID: 0}
-    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -93,10 +90,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10788}
     - Class: 114
-      Script: {instanceID: 10798}
-    - Class: 114
-      Script: {instanceID: 11314}
-    - Class: 114
       Script: {instanceID: 11576}
     - Class: 114
       Script: {instanceID: 11594}
@@ -114,6 +107,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12332}
     - Class: 114
       Script: {instanceID: 12426}
+    - Class: 114
+      Script: {instanceID: 35838}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -121,10 +116,6 @@ ScriptsOnlyBuild:
     - Class: 137
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 212
-      Script: {instanceID: 0}
-    - Class: 213
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -765,7 +756,7 @@ ScriptsOnlyBuild:
     className: InteractableRegistry
   - hash:
       serializedVersion: 2
-      Hash: ba3c96256d23e61640dd2377e9bf4df2
+      Hash: 252514abb0a54146fb2ceaed90ead49a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: TextManager
@@ -1129,12 +1120,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Oculus.Platform.Samples.VrBoardGame
     className: PlatformManager
-  - hash:
-      serializedVersion: 2
-      Hash: c993e6b39d9667c29d35c5fdd98c6e4a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Defilement
   - hash:
       serializedVersion: 2
       Hash: 9edf0788742c31d8eaaf32cf4feac747
@@ -1891,7 +1876,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c993e6b39d9667c29d35c5fdd98c6e4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Defilement
   platform: 13
   scenePathNames:
-  - Assets/Scenes/Example.unity
-  playerPath: C:/Users/Teiki RAIHAUTI/Desktop/Projets Unity/Test/TMPOVR.apk
+  - Assets/TextMesh Pro Scroll/Scenes/Example.unity
+  playerPath: C:/Users/Teiki RAIHAUTI/Desktop/Projets Unity/TMPOVR/TMPOVR/TMPOVR.apk
